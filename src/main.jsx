@@ -2,13 +2,14 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
 
-import Color from './Color'
+import Margin_Padding from './Margin_Padding'
 
 
-createRoot(document.getElementById('root')).render(
-  <StrictMode>
+createRoot(document.getElementById('root')).render( 
+  
+  <StrictMode> 
 
-<Color />
- 
+    <Margin_Padding />
+
   </StrictMode>,
 )
