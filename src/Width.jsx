@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 const Width = () => {
 
@@ -22,6 +22,6 @@ const Width = () => {
 
     )
 
-}
+} 
 
 export default Width
