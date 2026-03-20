@@ -2,13 +2,14 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
 
-import Height from './Height'
+import Position from './Position'
 
 createRoot(document.getElementById('root')).render(
 
   <StrictMode>
 
-    <Height />
+<Position />
+ 
 
   </StrictMode>,
 )
