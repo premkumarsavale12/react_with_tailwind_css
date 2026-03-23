@@ -4,8 +4,6 @@ const Height = () => {
     return (
 
         <>
-
-
             <div className="h-40 bg-pink-500 max-h-50 " >
 
                 Code step by step

@@ -8,8 +8,8 @@ createRoot(document.getElementById('root')).render(
 
   <StrictMode>
 
-<Position />
- 
+    <Position />
+
 
   </StrictMode>,
 )
