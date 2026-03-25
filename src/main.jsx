@@ -2,13 +2,13 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
 
-import Position from './Position'
+import Filter from './Filter'
 
 createRoot(document.getElementById('root')).render(
 
-  <StrictMode>
+  <StrictMode> 
 
-    <Position />
+
 
 
   </StrictMode>,
