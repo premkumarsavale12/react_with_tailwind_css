@@ -1,13 +1,15 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
-import Grid_Classes from './Grid_Classes'
+
+import Dark_Mode from './Dark_Mode'
 
 createRoot(document.getElementById('root')).render(
 
   <StrictMode>
 
-    <Grid_Classes />
+<Dark_Mode />
+ 
 
   </StrictMode>,
 )
